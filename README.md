@@ -11,41 +11,41 @@ Using classes, encryption and building files PDF With iTextSharp.The purpose of 
 _______________________________________________________
 Knowledge at:
 
--WEB development
+- WEB development
 
--HTML
+- HTML
 
--CSS
+- CSS
 
--JavaScript
+- JavaScript
 
--SQL
+- SQL
 
--MySQL
+- MySQL
 _______________________________________________________
 
 Practical Software Engineer courses:
 
--C
+- C
 
--C#
+- C#
 
--Python
+- Python
 
--JAVA
+- JAVA
 
--Database
+- Database
 
--OOP
+- OOP
 
--Access
+- Access
 _________________________________________________________
--Environment:
+- Environment:
 
--Visual Studio Code
+- Visual Studio Code
 
--Visual Studio
+- Visual Studio
 
--Eclipse
+- Eclipse
 
 Contributions, issues, and feature requests are welcome! Give a follow if you like these projects!
